@@ -1,0 +1,23 @@
+{
+  "name": "work-git",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoooooshi/testnpm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoooooshi/testnpm/issues"
+  },
+  "homepage": "https://github.com/yoooooshi/testnpm#readme",
+  "dependencies": {
+    "jquery": "^1.11.0",
+    "lodash": "^1.1.0"
+  }
+}
